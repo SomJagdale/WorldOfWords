@@ -8,5 +8,10 @@ amk - as per my knowledge
 ama - ask me anything
 vividly - clearly 
 
-Rule 1 - Don’t… —> I like it when… 
+Rule 1   Don’t… —> I like it when… 
 For Example - Don’t message me when I’m in a meeting >> I like it when you send me funny tweets during my free hours!
+
+Rule 2   Thanks so much for [blank]
+For Example - Thanks so much for that terrific brainstorming session. >> Thanks so much for your insightful feedback!
+
+
