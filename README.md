@@ -6,6 +6,7 @@ fyi - for your information
 aka - also known as
 amk - as per my knowledge 
 ama - ask me anything
+ETA - estimated time of arrival
 vividly - clearly  - freedom, scope 
 leeway - freedom, scope 
 
