@@ -20,3 +20,5 @@ For Example - Thanks so much for that terrific brainstorming session. >> Thanks 
 Rule 3   I appreciate your [noun]
 For example - I appreciate your sense of humor. >> I appreciate your hard work on this project.
 
+
+
