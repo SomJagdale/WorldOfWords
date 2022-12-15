@@ -9,6 +9,8 @@ ama - ask me anything
 ETA - estimated time of arrival
 vividly - clearly  - freedom, scope 
 leeway - freedom, scope 
+Proximity - 
+Compliance - 
 
 Rule 1   Don’t… —> I lik
 e it when… 
@@ -21,4 +23,7 @@ Rule 3   I appreciate your [noun]
 For example - I appreciate your sense of humor. >> I appreciate your hard work on this project.
 
 
-
+Learned lessons from the ChatGTP 
+1.  There is no one-size-fits-all answer to this question, 
+2.  It's important to note answer can vary depending on a number of factors, such as the ..
+3.  
